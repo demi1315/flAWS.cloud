@@ -1,4 +1,4 @@
-🔐 flAWS.cloud – AWS Cloud Security Misconfiguration Exploitation
+#🔐 flAWS.cloud – AWS Cloud Security Misconfiguration Exploitation
 
 A hands-on cloud security learning project focused on identifying and understanding common AWS misconfigurations using the intentionally vulnerable flAWS.cloud lab.
 This project demonstrates practical exposure to cloud reconnaissance, IAM analysis, S3 misconfigurations, and privilege escalation concepts, from a defensive and educational perspective.
